@@ -39,6 +39,7 @@
     <item drawable="ifttt" />
     <item drawable="ifunny" />
     <item drawable="infinite_slice" />
+    <item drawable="instacons" />
     <item drawable="instagram" />
     <item drawable="lumosity" />
     <item drawable="mashable" />
@@ -269,6 +270,7 @@
     <item drawable="imgur" />
     <item drawable="inbox" />
     <item drawable="infinite_slice" />
+    <item drawable="instacons" />
     <item drawable="instagram" />
 
    <!-- <category title="J" /> -->
@@ -630,6 +632,7 @@
     <item drawable="imgur" />
     <item drawable="inbox" />
     <item drawable="infinite_slice" />
+    <item drawable="instacons" />
     <item drawable="instagram" />
     <item drawable="kayak" />
     <item drawable="keep" />

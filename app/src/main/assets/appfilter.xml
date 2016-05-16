@@ -110,7 +110,7 @@
     <item component="ComponentInfo{wsj.reader_sp/wsj.ui.SplashActivity}" drawable="wsj" />
     <item component="ComponentInfo{com.comcast.cvs.android/com.comcast.cvs.android.SplashActivity}" drawable="xfinity_account" />
     <item component="ComponentInfo{com.comcast.hsf/com.bsgwireless.fac.ComcastSplashScreen}" drawable="xfinity_wifi" />
-    <item component="ComponentInfo{com.aschwartz.temp.flatwhite/com.afollestad.polar.ui.MainActivity}" drawable="flat_white" />
+    <item component="ComponentInfo{com.aschwartz.instacons/com.afollestad.polar.ui.MainActivity}" drawable="instacons" />
     <item component="ComponentInfo{com.aschwartz.flatwhite/com.afollestad.polar.ui.MainActivity}" drawable="flat_white" />
     <item component="ComponentInfo{com.google.android.apps.adm/com.google.android.apps.adm.MainActivity}" drawable="android_device_manager" />
     <item component="ComponentInfo{com.groundspeak.geocaching/com.groundspeak.geocaching.boot.Bootstrap}" drawable="geocaching" />
