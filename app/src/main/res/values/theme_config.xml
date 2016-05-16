@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="UnusedResources">
+
+    <string name="theme_feature">ic_launcher</string>
+    <string name="theme_title">Instacons Icon Pack</string>
+    <string name="authorName">Andrew Schwartz</string>
+    <string name="developerName">Andrew Schwartz</string>
+    <string name="developer_name">Andrew Schwartz</string>
+    <string name="developer_link">http://websitecomingsoon.com</string>
+    <string name="theme_description">An icon pack inspired by Instagram\'s 8.0 icon</string>
+    <string name="theme_preview1">preview</string>
+
+</resources>

@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\werdn\Documents\GitHub\insta-cons\app\build\intermediates\exploded-aar\com.github.afollestad\assent\0.2.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a25e658b03c9fd5ed13fed614aeb037fec4d8be6">
+        <dex dex="C:\Users\werdn\Documents\GitHub\insta-cons\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.github.afollestad-assent-0.2.2_e560a03b5a608c8bf41f1d2d5857766a1fad32a1\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\werdn\Documents\GitHub\insta-cons\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="C:\Users\werdn\Documents\GitHub\insta-cons\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.3.0_7e2e8321a278fb7b6cdc21544d6fa4f5b7b0d072\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\werdn\Documents\GitHub\insta-cons\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="C:\Users\werdn\Documents\GitHub\insta-cons\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.3.0_97bd8a9634c79f1ef086baa2178973cae540af7a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\werdn\Documents\GitHub\insta-cons\app\build\intermediates\exploded-aar\com.github.afollestad\inquiry\ac638bf1e8\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d18b6189af790d6e81fce75b5ec19648450906f1">
+        <dex dex="C:\Users\werdn\Documents\GitHub\insta-cons\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.github.afollestad-inquiry-ac638bf1e8_bcb4d6e1ade2810fe00b7683100b8933fbb4b2a4\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\werdn\Documents\GitHub\insta-cons\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="82ce13fd19cdfde0e392f03c27edeba8d4333648">
+        <dex dex="C:\Users\werdn\Documents\GitHub\insta-cons\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-23.3.0_3afcded5a433aa98ea1350a8878e9b53b76f0bb3\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\werdn\Documents\GitHub\insta-cons\app\build\intermediates\exploded-aar\com.android.support\support-v13\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8813bdcf7583107c4873150075d17c8072ec50cf">
+        <dex dex="C:\Users\werdn\Documents\GitHub\insta-cons\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.3.0_729f60f10ce3a064e97c951727b0043e9b6efeef\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\werdn\Documents\GitHub\insta-cons\app\build\intermediates\exploded-aar\com.github.afollestad\bridge\3.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="3baa8c1a5b3d5bddd9e0c9e70b431c59f3748898">
+        <dex dex="C:\Users\werdn\Documents\GitHub\insta-cons\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.github.afollestad-bridge-3.2.1_a516bb183068a6bcaf8d086d2b8f591d40b91642\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\werdn\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="C:\Users\werdn\Documents\GitHub\insta-cons\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.3.0_2d4b77fdc1ef933b3faa57203e79769fc1f2cb08\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\werdn\Documents\GitHub\insta-cons\app\build\intermediates\exploded-aar\com.android.support\palette-v7\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d41792854b7fb173e61c2bfea5044fd47df76114">
+        <dex dex="C:\Users\werdn\Documents\GitHub\insta-cons\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-palette-v7-23.3.0_16425dc271030d89c32bcb229f3a2415b61b5b58\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\werdn\Documents\GitHub\insta-cons\app\build\intermediates\exploded-aar\me.zhanghai.android.materialprogressbar\library\1.1.5\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4a9f97c742d058ca55948643c06f447895a9af76">
+        <dex dex="C:\Users\werdn\Documents\GitHub\insta-cons\app\build\intermediates\transforms\dex\debug\folders\1000\10\me.zhanghai.android.materialprogressbar-library-1.1.5_9f0b3d20341249020d502774c09fe26a87ecb0b2\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\werdn\Documents\GitHub\insta-cons\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="C:\Users\werdn\Documents\GitHub\insta-cons\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.3.0_06bdac0697d5e5c46fd7ca1eed05b50ca019a9ce\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\werdn\.gradle\caches\modules-2\files-2.1\com.google.android.apps.muzei\muzei-api\2.0\ea86be2a201e6ad86dacffe774dbc6d89fcb0c92\muzei-api-2.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ea86be2a201e6ad86dacffe774dbc6d89fcb0c92">
+        <dex dex="C:\Users\werdn\Documents\GitHub\insta-cons\app\build\intermediates\transforms\dex\debug\folders\1000\10\muzei-api-2.0_f1a16edd5ec11361f55c94f4b51cd8f8ae9eac88\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\werdn\Documents\GitHub\insta-cons\app\build\intermediates\exploded-aar\com.android.support\design\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
+        <dex dex="C:\Users\werdn\Documents\GitHub\insta-cons\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.3.0_72bc90d2061418c699f1f58a8f7db643bf7b7126\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\werdn\Documents\GitHub\insta-cons\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e4c59611b32e60d02d3a4b94934ccfb0fecbdca4">
+        <dex dex="C:\Users\werdn\Documents\GitHub\insta-cons\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_05d38e1c95d0fa65e8b6fab79755afec0ef6813a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\werdn\Documents\GitHub\insta-cons\app\build\intermediates\exploded-aar\com.github.florent37\glidepalette\1.0.6\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="00d3b960d228b6e5dfc9bee4ae85b522def2b34f">
+        <dex dex="C:\Users\werdn\Documents\GitHub\insta-cons\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.github.florent37-glidepalette-1.0.6_44fb4b0f6fbad2c9f3eb73dd19a0ff15c63e794e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\werdn\Documents\GitHub\insta-cons\app\build\intermediates\exploded-aar\com.github.afollestad\sectioned-recyclerview\0.2.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="2abb3a5a462f83c6cd86c516fa2b7b2266b5382e">
+        <dex dex="C:\Users\werdn\Documents\GitHub\insta-cons\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.github.afollestad-sectioned-recyclerview-0.2.2_a97b84b373e052b591cfb3ea480b2a8a6a59458e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\werdn\Documents\GitHub\insta-cons\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c6d7c84010758a703bd23b0ac3d1821d97199b56">
+        <dex dex="C:\Users\werdn\Documents\GitHub\insta-cons\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_45917ddd126da9fcb7b63569d39bdabdf6e44a47\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\werdn\Documents\GitHub\insta-cons\app\build\intermediates\exploded-aar\com.github.afollestad\drag-select-recyclerview\56eccc10c7\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8f879dd2dc894e50f790866f6925f1557a5519c9">
+        <dex dex="C:\Users\werdn\Documents\GitHub\insta-cons\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.github.afollestad-drag-select-recyclerview-56eccc10c7_306cae5d6366fed6fae66301f41838067f96cbdc\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\werdn\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="C:\Users\werdn\Documents\GitHub\insta-cons\app\build\intermediates\transforms\dex\debug\folders\1000\10\glide-3.7.0_9f707ee1e93bb47210cb0ae58be6bca5032e9766\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\werdn\Documents\GitHub\insta-cons\app\build\intermediates\exploded-aar\com.pluscubed\insets-dispatcher\0.1.3\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="dc7c4663dfb8d04462dc2bdb4345d329e102c220">
+        <dex dex="C:\Users\werdn\Documents\GitHub\insta-cons\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.pluscubed-insets-dispatcher-0.1.3_6b1e92b755ef211a21cffba5e3f5db0b65ccf1eb\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\werdn\Documents\GitHub\insta-cons\app\build\intermediates\exploded-aar\com.github.afollestad\icon-request\1.3.5\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="67cf152f050a7670039ab2c064608d729e905f98">
+        <dex dex="C:\Users\werdn\Documents\GitHub\insta-cons\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.github.afollestad-icon-request-1.3.5_626ccbc6e43f5a8d7e72fae78296500195df6370\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\werdn\Documents\GitHub\insta-cons\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="C:\Users\werdn\Documents\GitHub\insta-cons\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.3.0_98b8afe8cb3286c3b6980426f89bf15d042bc837\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\werdn\Documents\GitHub\insta-cons\app\build\intermediates\exploded-aar\com.github.afollestad.material-dialogs\core\0.8.5.8\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4f7e1ce5942093c77105c86ef11b782f75aff0c3">
+        <dex dex="C:\Users\werdn\Documents\GitHub\insta-cons\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.github.afollestad.material-dialogs-core-0.8.5.8_501aa9c5ea7168cda474969805e373d6a51fa04d\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\werdn\.gradle\caches\modules-2\files-2.1\com.anjlab.android.iab.v3\library\1.0.31\98383e8ba5c9392c8c3a331310c1fabeb47a82d0\library-1.0.31.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="98383e8ba5c9392c8c3a331310c1fabeb47a82d0">
+        <dex dex="C:\Users\werdn\Documents\GitHub\insta-cons\app\build\intermediates\transforms\dex\debug\folders\1000\10\library-1.0.31_773e29680975749fe063768b853b86f4486b718f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\werdn\Documents\GitHub\insta-cons\app\build\intermediates\exploded-aar\com.android.support\support-v13\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a809555a2599054c3dcd1bf82b089315ac3a11df">
+        <dex dex="C:\Users\werdn\Documents\GitHub\insta-cons\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v13-23.3.0_77ce74a612574bdf95c0de561c390b652a29d3ff\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\werdn\Documents\GitHub\insta-cons\app\build\intermediates\exploded-aar\com.makeramen\roundedimageview\2.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="814fc0c3ec69a944add398217d90077301501a74">
+        <dex dex="C:\Users\werdn\Documents\GitHub\insta-cons\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.makeramen-roundedimageview-2.2.1_08d904630fb5e6d1d750558d1ac0cac248568177\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\werdn\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife\7.0.1\d5d13ea991eab0252e3710e5df3d6a9d4b21d461\butterknife-7.0.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="C:\Users\werdn\Documents\GitHub\insta-cons\app\build\intermediates\transforms\dex\debug\folders\1000\10\butterknife-7.0.1_f6478e9bc2be38c3ebaedf7bf3aa8ed52c70c289\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\werdn\Documents\GitHub\insta-cons\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="C:\Users\werdn\Documents\GitHub\insta-cons\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.3.0_c7a8bc6647cf1da53c589fe454d74dfb1b808146\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\werdn\Documents\GitHub\insta-cons\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="C:\Users\werdn\Documents\GitHub\insta-cons\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.3.0_8e88675262dc07de40cbd042bab4681ac197912a\classes.dex" />
+    </item>
+
+</items>

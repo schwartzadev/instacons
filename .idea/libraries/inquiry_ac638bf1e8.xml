@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="inquiry-ac638bf1e8">
+    <ANNOTATIONS>
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.github.afollestad/inquiry/ac638bf1e8/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.github.afollestad/inquiry/ac638bf1e8/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.github.afollestad/inquiry/ac638bf1e8/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.afollestad/inquiry/ac638bf1e8/dd8b13ac9dfb09712abbb30f0d8fdae0fd34908c/inquiry-ac638bf1e8-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
