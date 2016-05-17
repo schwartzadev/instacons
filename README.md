@@ -6,3 +6,5 @@
 </br>
 </br>
 Email me at aschwartzdev@gmail.com
+
+Copied from afollestad/polar-dashboard
